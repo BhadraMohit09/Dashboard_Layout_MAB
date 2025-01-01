@@ -1,4 +1,4 @@
-# Dashboard: E-Commerce Data Management System  
+## Dashboard: E-Commerce Data Management System  
 
 ## Overview  
 The **Dashboard** is a .NET-based application designed to simplify the management of E-Commerce data. It provides a user-friendly interface for interacting with product inventories, customer orders, sales data, and more. With a focus on efficiency and usability, this project helps businesses monitor and optimize their operations seamlessly.
